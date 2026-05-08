@@ -12,20 +12,20 @@ Traditionally, processes like issuing a transcript require students to physicall
 
 ---
 
+##  Screenshots
+
+| Home Dashboard | Service Request | Tracking Progress |
+| :---: | :---: | :---: |
+| <img src="assets/screenshots/home.png" width="220"/> | <img src="assets/screenshots/request.png" width="220"/> | <img src="assets/screenshots/track.png" width="220"/> |
+
+---
+
 ##  Key Features (Based on implementation)
 *   **Digital Service Requests:** Easily apply for services such as Transcript Issuance, Certificates, etc.
 *   **Live Tracking:** Track the exact stage and status of your application without needing to visit the office.
 *   **Push Notifications:** Get instantly notified when the status of an ongoing request changes.
 *   **Document Uploads & QR Scanning:** Built-in scanner and image pickers to quickly upload required documents or verify identities directly from the app.
 *   **Offline Support:** Caches data locally using `sqflite` so students can view their history without an active internet connection.
-
----
-
-##  Screenshots
-
-| Home Dashboard | Service Request | Tracking Progress |
-| :---: | :---: | :---: |
-| <img src="assets/screenshots/home.png" width="220"/> | <img src="assets/screenshots/request.png" width="220"/> | <img src="assets/screenshots/track.png" width="220"/> |
 
 ---
 
