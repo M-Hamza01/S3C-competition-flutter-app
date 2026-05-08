@@ -23,8 +23,6 @@ Traditionally, processes like issuing a transcript require students to physicall
 
 ##  Screenshots
 
-> *(Replace the image paths below with actual project screenshots once ready)*
-
 | Home Dashboard | Service Request | Tracking Progress |
 | :---: | :---: | :---: |
 | <img src="assets/screenshots/home.png" width="220"/> | <img src="assets/screenshots/request.png" width="220"/> | <img src="assets/screenshots/track.png" width="220"/> |
