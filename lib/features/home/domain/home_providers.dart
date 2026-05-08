@@ -1,0 +1,1 @@
+// Providers: walletProvider, announcementsProvider

@@ -1,0 +1,1 @@
+// Animated corner brackets overlay
